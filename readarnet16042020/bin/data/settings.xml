@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Controls>
+	<Led_Matrix>
+		<display_LEDs>1</display_LEDs>
+		<play_video>1</play_video>
+		<nameVideo>16x120.mov</nameVideo>
+		<Node_IP>10.0.0.1</Node_IP>
+		<couleurs>1</couleurs>
+	</Led_Matrix>
+</Controls>
